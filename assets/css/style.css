@@ -1,0 +1,23 @@
+*{
+    font-family: 'Roboto', serif;
+    color: white;
+}
+body{
+    background: url(../images/football.jpg);
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.jumbotron{
+    background: rgba(128, 128, 128, 0.219);
+    color: white;
+    font-family: 'Roboto', Serif;
+}
+.media{
+    background: rgba(128, 128, 128, 0.6);
+}
+.btn{
+    background-color: whitesmoke;
+}
+#time{
+    color: red;
+}
